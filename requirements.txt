@@ -1,4 +1,4 @@
-name: jupyter-notebook-test
-dependencies:
-  - numpy
-  - matplotlib
+numpy
+matplotlib
+scipy
+ipywidgets
