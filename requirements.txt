@@ -1,4 +1,4 @@
-name: example-environment
+name: jupyter-notebook-test
 dependencies:
   - numpy
   - matplotlib
